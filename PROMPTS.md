@@ -113,7 +113,7 @@ Recommend a clean Next.js 14 project structure for a full-stack app with search 
 ## Notes
 
 * These prompts illustrate **strategic use of AI** for guidance, debugging, and component generation.
-* The app was developed primarily by the author; AI tools were used **as accelerators**, not to write the entire solution.
+* The app was developed primarily by the me; AI tools were used **as accelerators**, not to write the entire solution.
 * Deployment errors, API integration challenges, and responsive UI improvements were solved using these prompts effectively.
 
 ---
@@ -122,7 +122,7 @@ Recommend a clean Next.js 14 project structure for a full-stack app with search 
 
 While AI assisted with code generation and problem-solving, all:
 
-* Architectural decisions were made by the developer
+* Architectural decisions were made by me
 * Business logic was implemented manually
 * Design choices were carefully curated
 * Code was reviewed and modified for quality
