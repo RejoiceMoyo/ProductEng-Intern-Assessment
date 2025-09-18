@@ -10,7 +10,7 @@ A full-stack web application to explore Torre profiles, search for people, and v
 - **People Search:** Search for users by name and view a list of matching profiles.
 - **Skill Analysis:** Click on a profile to view a radar chart of top skills.
 - **Interactive UI:** Clean and responsive design for smooth navigation.
-- **Multiple Visualization Options:** Skill data represented in charts for easy interpretation.
+- **Visualization Options:** Skill data represented in charts for easy interpretation.
 
 ## Requirements Met
 
