@@ -135,7 +135,7 @@ export default function Home() {
             <div className="mb-16">
               <div className="text-center mb-8">
                 <h2 className="text-3xl font-bold bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent mb-4">
-                  Results for "{searchQuery}"
+                 Results for &ldquo;{searchQuery}&rdquo;
                 </h2>
                 <p className="text-purple-200/80">
                   {results.length} professionals found
